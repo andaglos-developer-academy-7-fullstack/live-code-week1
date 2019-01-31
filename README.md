@@ -1,5 +1,11 @@
 # live-code-week1
 
+## Catatan
+- ▢ Diperbolehkan membukan dokumentasi seperti w3schools dll
+- ▢ Tidak diperbolehkan mencontek 
+- ▢ Tidak diperbolehkan membuka file latihan
+- ▢ Yang melanggar aturan atau ketahuan dianggap melakukan kecurangan dan mendapatkan sangsi 0
+
 ## Objectives
 
 - ▢ Memastikan kamu sudah memahami istilah dasar penyusun website.
