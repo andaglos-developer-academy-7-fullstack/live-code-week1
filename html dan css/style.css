@@ -1,0 +1,30 @@
+body {
+    font-family: 'Slabo 27px', serif;
+  }
+  
+  h1 {
+    border-bottom: 1px solid rgba(0, 0, 0, .1);
+    padding-bottom: 10px;
+  }
+  
+  .separator {
+    width: 100%;
+    height: auto;
+
+  }
+
+  .box-200 {
+    width: 100px;
+    height: 20px;
+   background: orange:
+  }
+  .box-100 {
+    width: 10px;
+    height: 100px;
+    background: blue;
+  }
+  
+  #box1:{
+    color: #FFFFFF;
+
+  }
