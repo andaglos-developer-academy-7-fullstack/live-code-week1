@@ -1,0 +1,65 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 16px;
+    color: #222222;
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+header#main{
+    display: block;
+    background-color: orange;
+    box-shadow: 3px 4px #888888;
+    height: 40px;
+    margin-bottom: 50px;
+}
+section#boxes {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: stretch;
+    align-content: center;
+}
+.box {
+    background: darkcyan;
+    width: 220px;
+    height: 220px;
+    margin: auto;
+    border-radius: 50px;
+}
+section#article {
+    margin: 50px 0px;
+}
+header h2 {
+    text-align: center;
+    font-size: 50px;
+    color:red;
+}
+section#article article {
+    border: 1px solid blue;
+    text-align: center;
+    display: block;
+    padding: 30px;
+    margin: 20px 0px;
+}
+.star-icon {
+    display: inline-block;
+    float: left;
+}
+.star-icon .fa-star {
+    font-size: 50px;
+    color: gold;
+    padding-right: 30px;
+}
+.text p {
+    color: blue;
+    font-size: 23px;
+    line-height: 34px;
+    text-align: initial;
+}
